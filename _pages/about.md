@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: PhD Student @ <a href='https://www.brown.edu/'>NYU</a>
+subtitle: PhD Student @ <a href='https://www.nyu.edu/'>NYU</a>
 
 profile:
   align: right
@@ -10,8 +10,11 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info:
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+experience:
+  enabled: false # includes experience from `_data/experience.yml`
 
 announcements:
   enabled: false # includes a list of news items
@@ -24,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey! I'm a rising senior passionate about optimizing ML systems.
+Hello! I'm a first year PhD student in Computer Science at NYU, co-advised by [Jinyang Li](https://jinyangli.github.io/) and [Anirudh Sivaraman](https://anirudhsk.github.io/). My work focuses on building systems that make machine learning workflows faster, more resource-efficient, and easier to scale.
+
+I completed my undergrad at Brown University, where I was advised by [Deepti Raghavan](https://deeptir.me/).
