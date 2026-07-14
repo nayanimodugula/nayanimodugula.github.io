@@ -583,6 +583,15 @@ footer.sticky-bottom {
   }
 }
 
+.post-header {
+  .desc {
+    font-size: 1.25rem;
+    color: var(--global-text-color-light);
+    margin-top: 0.25rem;
+    margin-bottom: 1rem;
+  }
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;
