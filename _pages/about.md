@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: blank
 permalink: /
 subtitle: PhD Student @ <a href='https://www.nyu.edu/'>NYU</a>
 
